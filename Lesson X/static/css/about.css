@@ -1,0 +1,23 @@
+body {
+  background-color: black;
+}
+
+.formal {
+  font-family: 'Lato';
+  font-size: 60px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+.navstyle {
+  text-align: center;
+}
+nav a {
+  font-family: 'Lato';
+  font-size: 20px;
+  color: #fff;
+  font-weight: lighter;
+  text-align: center;
+  text-decoration: none;
+  padding: 7px 30px;
+}
